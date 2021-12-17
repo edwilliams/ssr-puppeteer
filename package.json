@@ -1,0 +1,21 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.mjs",
+    "build": "node ssr.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html2json": "^1.0.2",
+    "js-beautify": "^1.14.0",
+    "puppeteer": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
