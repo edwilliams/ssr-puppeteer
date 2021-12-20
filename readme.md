@@ -7,5 +7,3 @@ Server Side Render w/ Puppeteer
 - replace the body in index-ssr.html with new body from HTML string
 
 ref: https://developers.google.com/web/tools/puppeteer/articles/ssr
-
-todo: prevent pupeteer from executing 'analytics.js'
